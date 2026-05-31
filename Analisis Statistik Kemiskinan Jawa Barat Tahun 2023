@@ -1,0 +1,66 @@
+📊 Analisis Statistik Kemiskinan Jawa Barat Tahun 2023
+Deskripsi Project
+Project ini membahas analisis statistik data kemiskinan kabupaten/kota di Jawa Barat tahun 2023 menggunakan data dari Badan Pusat Statistik (BPS).
+
+Analisis dilakukan untuk mengetahui:
+Jumlah penduduk miskin di setiap daerah
+Persentase kemiskinan kabupaten/kota
+Proporsi data kemiskinan
+Varians data (S²)
+Perbedaan tingkat kemiskinan antar wilayah
+
+Tujuan Project:
+Menganalisis kondisi kemiskinan di Jawa Barat tahun 2023
+Membandingkan tingkat kemiskinan antar kabupaten/kota
+Mengidentifikasi daerah dengan tingkat kemiskinan tinggi dan rendah
+Melatih kemampuan analisis data statistik menggunakan Excel
+
+Tools yang Digunakan:
+Microsoft Excel
+Statistik Deskriptif
+Visualisasi Data
+
+Dataset
+Sumber data:
+Badan Pusat Statistik (BPS) Jawa Barat 2023
+
+Data yang digunakan meliputi:
+Kabupaten/Kota
+Jumlah Penduduk
+Persentase Kemiskinan
+Jumlah Penduduk Miskin
+Proporsi Data
+Varians Data (S²)
+
+Metode Analisis
+Metode yang digunakan:
+Statistik deskriptif
+Perhitungan persentase
+Perhitungan proporsi
+Perhitungan varians (S²)
+Penyajian grafik data
+Interpretasi hasil analisis
+
+Tahapan pengolahan data:
+Menginput data ke Microsoft Excel
+Membuat tabel data
+Menghitung statistik data
+Menyusun visualisasi grafik
+Menafsirkan hasil analisis
+
+Hasil Analisis
+Hasil analisis menunjukkan bahwa:
+Kabupaten seperti Cirebon, Indramayu, dan Garut memiliki tingkat kemiskinan yang relatif tinggi
+Wilayah seperti Bekasi, Depok, dan Cimahi memiliki tingkat kemiskinan yang lebih rendah dibanding daerah lain
+Terdapat variasi yang cukup besar antar kabupaten/kota berdasarkan nilai varians (S²)
+Hal ini menunjukkan adanya ketimpangan tingkat kesejahteraan antar wilayah di Jawa Barat
+
+Skill yang Dipelajari:
+Data Analysis
+Statistik Deskriptif
+Pengolahan Data Excel
+Data Visualization
+Interpretasi Statistik
+
+Author:
+Oktaviani Eka Putri
